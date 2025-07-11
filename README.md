@@ -61,3 +61,6 @@ This project focuses on demand forecasting, price sensitivity modeling, and reta
 - `category_store_tier_matrix.csv`
 - `weekly_sales.csv`
 - `sales_outliers.csv`
+
+
+<img width="1911" height="1100" alt="EDA DASHBOARD" src="https://github.com/user-attachments/assets/7e1edf47-f315-41ca-8f76-541a481cf34e" />
