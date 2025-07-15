@@ -1,7 +1,7 @@
 # Demand Forecasting by Product and Store Tier
 
 To analyze sales performance, pricing strategy, promotional effectiveness, and store-wise variation across 5 FMCG product categories.
-This project focuses on demand forecasting, price sensitivity modeling, and retail merchandising strategies
+This project focuses on understanding how price and promotions affect demand & Predict future demand volumes
 
 ## Dataset Overview
 **Dataset**: Breakfast at the Frat (524,950 rows across 156 weeks)
@@ -50,17 +50,6 @@ This project focuses on demand forecasting, price sensitivity modeling, and reta
 
 ---
 
-## Output Files for Power BI
-
-- `category_sales.csv`
-- `category_discounts.csv`
-- `category_summary.csv`
-- `top_brands_sales.csv`
-- `brand_discounts.csv`
-- `brand_discount_summary.csv`
-- `category_store_tier_matrix.csv`
-- `weekly_sales.csv`
-- `sales_outliers.csv`
-
-
 <img width="1911" height="1100" alt="EDA DASHBOARD" src="https://github.com/user-attachments/assets/7e1edf47-f315-41ca-8f76-541a481cf34e" />
+<img width="1904" height="1095" alt="Price Elasticity   promotion Impact Dashboard (1)" src="https://github.com/user-attachments/assets/6e2f5562-71a1-45f5-b13a-31b8467f6638" />
+
