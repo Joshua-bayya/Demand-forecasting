@@ -53,3 +53,17 @@ This project focuses on understanding how price and promotions affect demand & P
 <img width="1911" height="1100" alt="EDA DASHBOARD" src="https://github.com/user-attachments/assets/7e1edf47-f315-41ca-8f76-541a481cf34e" />
 <img width="1904" height="1095" alt="Price Elasticity   promotion Impact Dashboard (1)" src="https://github.com/user-attachments/assets/6e2f5562-71a1-45f5-b13a-31b8467f6638" />
 
+Which 10 products are most price-sensitive?
+<img width="577" height="265" alt="image" src="https://github.com/user-attachments/assets/fb5ed797-949c-4095-a9bb-c93672769e5f" />
+
+Which products have strong promo uplift?
+<img width="577" height="73" alt="image" src="https://github.com/user-attachments/assets/6813c10c-7aa2-487f-bf01-35ce6b62d558" />
+
+Which Categoried products more elastic?
+<img width="368" height="97" alt="image" src="https://github.com/user-attachments/assets/08091575-8e49-407c-8c7e-c0f76a469e4b" />
+
+Should the company lower price or run promos?
+My analysis shows that promotional tactics like Display and Feature occur more frequently among high-performing items than price discounts (TPR)
+This supports a strategy of targeted promotion: choose the right promo type for the right product, rather than broadly applying discounts.Especially for products with high price elasticity and strong R² values. Discounts can be used more selectively — not as a blanket tactic.
+
+
