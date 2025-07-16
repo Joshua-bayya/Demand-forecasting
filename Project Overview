@@ -1,0 +1,25 @@
+Project: Price Elasticity & Promotion Impact Analysis
+Dataset: Breakfast at the FratTools: Python (Pandas, Statsmodels), Power BI
+
+
+Objective: Estimate product-level price elasticity and assess promotional impact (display, feature, TPR) on weekly sales across categories and store tiers.
+
+
+Key Steps
+
+1. Cleaned and preprocessed 524K rows of transaction data
+2. Addressed missing prices using logic around base price, spend, and TPR
+3. Calculated price discount metrics and outlier flags using units_per_visit and visits_per_hhs
+4. Built log-log OLS regression models per UPC with sufficient variation and observations (n > 20)
+5. Merged elasticity scores with product metadata
+6. Created a Power BI dashboard with filters, promo breakdowns, and elasticity distribution
+
+Key Findings
+
+1. Frozen pizza and snack categories show high price elasticity; oral hygiene products are largely inelastic
+2. Circular features are the most effective promo type, especially in cereal(+80%) and oral care, while display promotions drove results in frozen pizza and snack categories.
+3. Around 1 in 3 products were highly elastic (ε < -2)
+
+Measures
+
+1. Protect elastic products with discounting, increase prices on inelastic products to capture margin.
